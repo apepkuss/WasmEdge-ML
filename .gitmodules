@@ -1,0 +1,6 @@
+[submodule "wasmedge-sys"]
+	path = wasmedge-sys
+	url = https://github.com/apepkuss/wasmedge-sys.git
+[submodule "wasmedge"]
+	path = wasmedge
+	url = https://github.com/apepkuss/wasmedge.git
