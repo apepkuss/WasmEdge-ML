@@ -4,3 +4,6 @@
 [submodule "wasmedge"]
 	path = wasmedge
 	url = https://github.com/apepkuss/wasmedge.git
+[submodule "wasmedge-wasi-nn"]
+	path = wasmedge-wasi-nn
+	url = https://github.com/apepkuss/wasmedge-wasi-nn.git
