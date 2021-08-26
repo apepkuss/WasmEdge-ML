@@ -1,2 +1,3 @@
 [workspace]
-members = ["wasmedge-sys", "wasmedge", "wasmedge-wasi-nn"]
+exclude = ["wasmedge-wasi-nn"]
+members = ["wasmedge", "wasmedge-sys"]
